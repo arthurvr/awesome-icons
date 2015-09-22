@@ -15,3 +15,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Geomicons Icons](https://github.com/jxnblk/geomicons-open)
 - [Windows Icons](https://github.com/Templarian/WindowsIcons/)
 - [Social Stackicons](https://github.com/parkerbennett/stackicons)
+- [Ligature Symbols](https://github.com/kudakurage/LigatureSymbols)
+- [Batch Icons](https://github.com/AdamWhitcroft/Batch)
